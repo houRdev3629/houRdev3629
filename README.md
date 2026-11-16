@@ -1,184 +1,187 @@
-<!-- Animated Typing Header -->
+
+<!-- PURPLE CYBERPUNK TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Lim+Lyhourrr;Software+Developer+💻;Software+Engineer+⚡;Cybersecurity+Enthusiast+🛡️;QA+Engineer+🧪;Web+App+Developer+🌐;Network+%26+OT+Support+🖧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=B56CFF&center=true&vCenter=true&width=950&lines=HI+%F0%9F%91%8B+I'M+LIM+LYHOURRR;SOFTWARE+DEVELOPER+%F0%9F%92%BB;SOFTWARE+ENGINEER+%E2%9A%A1;CYBERSECURITY+ENTHUSIAST+%F0%9F%9B%A1%EF%B8%8F;BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%9A%80" />
 </p>
 
----
-
-<h1 align="center">🚀 LIM LYHOURRR 🚀</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,40:4B0082,100:A855F7&height=250&section=header&text=LIM%20LYHOURRR&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=65&descSize=18"/>
+</p>
 
 <h3 align="center">
-💻 Software Developer | ⚡ Software Engineer | 🛡️ Cybersecurity | 🧪 QA Engineer | 🌐 Web App Developer
+  <img src="https://img.shields.io/badge/⚡_DREAM_BIG-CREATE_BIGGER-A855F7?style=for-the-badge"/>
 </h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <b>💜 Welcome to my digital universe.</b><br/>
+  Exploring technology, building ideas, and turning imagination into reality.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ Passionate Software Developer & Engineer  
-✨ Love building scalable and creative applications  
-✨ Interested in AI, Cybersecurity, Cloud & DevOps  
-✨ Strong problem-solving and analytical thinking  
-✨ Focused on clean code and modern technologies  
+```yaml
+Name: Lim Lyhourrr
+Role: IT Student & Developer
+Focus: Software Development
+Passion: Technology & Innovation
+
+Interests:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Cybersecurity
+  - Software Engineering
+  - Quality Assurance
+  - Network & OT Support
+
+Mindset: Learn. Build. Improve. Repeat.
+Goal: Build technology that matters.
+```
+
+<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ MY TECHNOLOGY UNIVERSE
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
+### 🌐 Frameworks & Development
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=dark"/>
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark"/>
 </p>
 
 ---
 
-## 🌐 Frameworks & Technologies
+## 🚀 FEATURED PROJECTS
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-ENGINEERING_THE_FUTURE-A855F7?style=for-the-badge"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap"/>
+| 💎 Project | 📝 Description | ⚡ Technologies |
+|:---|:---|:---|
+| 🎓 Student Management System | Student records, grades, attendance and GPA | C++ |
+| 💰 Finance Management Website | Interactive financial dashboard and transactions | HTML, CSS, JS |
+| 🛒 E-Commerce Website | Modern online shopping experience | HTML, CSS, JS |
+| 🌐 Personal Portfolio | Responsive developer portfolio | HTML, CSS, JS |
 
+---
+
+## 📊 GITHUB PERFORMANCE
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=090014&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=090014&title_color=C084FC&text_color=E9D5FF"/>
 </p>
 
 ---
 
-## 🗄️ Databases
+## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=090014&ring=A855F7&fire=C084FC&currStreakLabel=D8B4FE"/>
 </p>
 
 ---
 
-## ⚙️ Tools & Platforms
+## 🏆 GITHUB TROPHIES
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10"/>
 </p>
 
 ---
 
-# 📂 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📖 Description | 🛠️ Technologies |
-|---|---|---|
-| 🎓 Smart Student Management System | Manage students, attendance & analytics | React.js • Node.js • MongoDB |
-| 🛒 E-Commerce Website | Professional shopping platform | HTML • CSS • JavaScript • Firebase |
-| 🌐 Portfolio Website | Responsive portfolio with animations | React.js • Tailwind CSS |
-
-</div>
-
----
-
-# 📈 GitHub Stats
+## 🧠 CURRENTLY LEARNING
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-A855F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-9333EA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CLOUD_COMPUTING-6B21A8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DEVOPS-C084FC?style=flat-square"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 💡 MY CORE STRENGTHS
+
+<table align="center">
+<tr>
+<td align="center">🧩<br/><b>Problem Solving</b></td>
+<td align="center">🧠<br/><b>Critical Thinking</b></td>
+<td align="center">🤝<br/><b>Teamwork</b></td>
+</tr>
+<tr>
+<td align="center">⚡<br/><b>Fast Learning</b></td>
+<td align="center">🎨<br/><b>Creativity</b></td>
+<td align="center">🚀<br/><b>Innovation</b></td>
+</tr>
+</table>
+
+---
+
+## 🌍 CONNECT WITH ME
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🏆 Achievements
+## 👁️ PROFILE VISITORS
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🌍 Connect With Me
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 💡 Professional Motto
+<h2 align="center">
+  💜 THINK DIFFERENT. CODE DIFFERENT. BUILD THE FUTURE.
+</h2>
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <i>"Great developers don't just write code. They create possibilities."</i>
 </p>
 
----
-
-# 🧠 Currently Learning
-
-`yaml
-- Advanced Full-Stack Development
-- Cybersecurity & Ethical Hacking
-- Cloud Computing
-- Artificial Intelligence
-- DevOps & System Design
-
----
-
-🏆 Strengths
-
-✅ Problem Solving
-✅ Critical Thinking
-✅ Team Collaboration
-✅ Software Architecture
-✅ Fast Learning Ability
-✅ Creative Development
-
----
-
-⚡ Visitor Counter
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/></p>---
-
-🐍 Contribution Snake Animation
-<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/></p>---
-
-✨ Final Message
-
-<h3 align="center">💻 “Code with creativity, build with purpose, and never stop learning.” 🚀
-
-</h3><p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/></p>
-`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6B21A8,100:A855F7&height=150&section=footer"/>
+</p>

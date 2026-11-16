@@ -223,3 +223,22 @@ A personal digital identity showcasing projects, skills, and developer achieveme
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4B0082,100:05000F&height=140&section=footer"/>
 
 </div>
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<h2 align="center">
+  💜 THINK DIFFERENT. CODE DIFFERENT. BUILD THE FUTURE.
+</h2>
+
+<p align="center">
+  <i>"Great developers don't just write code. They create possibilities."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6B21A8,100:A855F7&height=150&section=footer"/>
+</p>

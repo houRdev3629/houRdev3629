@@ -220,10 +220,9 @@ A personal digital identity showcasing projects, skills, and developer achieveme
 
 **THINK. CREATE. INNOVATE.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4B0082,100:05000F&height=140&section=footer"/>
 
 </div>
-## 🐍 CONTRIBUTION SNAKE
+<!-- 🐍 CONTRIBUTION SNAKE -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>

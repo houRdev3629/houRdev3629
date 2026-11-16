@@ -1,187 +1,225 @@
 
-<!-- PURPLE CYBERPUNK TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=B56CFF&center=true&vCenter=true&width=950&lines=HI+%F0%9F%91%8B+I'M+LIM+LYHOURRR;SOFTWARE+DEVELOPER+%F0%9F%92%BB;SOFTWARE+ENGINEER+%E2%9A%A1;CYBERSECURITY+ENTHUSIAST+%F0%9F%9B%A1%EF%B8%8F;BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%9A%80" />
-</p>
+<!-- ================================= -->
+<!--       LYHOURRR DIGITAL WORLD      -->
+<!-- ================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,40:4B0082,100:A855F7&height=250&section=header&text=LIM%20LYHOURRR&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=65&descSize=18"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/⚡_DREAM_BIG-CREATE_BIGGER-A855F7?style=for-the-badge"/>
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:05000F,30:190033,65:4B0082,100:9D4EDD&text=LYHOURRR&fontColor=FFFFFF&fontSize=85&fontAlignY=45&desc=THE%20DIGITAL%20UNIVERSE&descSize=20&descAlignY=65&animation=twinkling"/>
 
-<p align="center">
-  <b>💜 Welcome to my digital universe.</b><br/>
-  Exploring technology, building ideas, and turning imagination into reality.
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=23&duration=2500&pause=700&color=C77DFF&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+WORLD;I+BUILD+IDEAS+INTO+REALITY;THINK+BEYOND+THE+CODE."/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-6A00F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEVEL-LEARNING-BC8CF2?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+# ◈ 01 — CHARACTER PROFILE
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-Name: Lim Lyhourrr
-Role: IT Student & Developer
-Focus: Software Development
-Passion: Technology & Innovation
+> **IDENTITY:** LIM LYHOURRR  
+> **OCCUPATION:** IT STUDENT / DEVELOPER  
+> **SPECIALIZATION:** SOFTWARE DEVELOPMENT  
+> **ENVIRONMENT:** DIGITAL WORLD  
+> **MISSION:** BUILD THE IMPOSSIBLE.
 
-Interests:
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Cybersecurity
-  - Software Engineering
-  - Quality Assurance
-  - Network & OT Support
+I am a technology enthusiast who enjoys turning creative ideas into functional digital experiences.
 
-Mindset: Learn. Build. Improve. Repeat.
-Goal: Build technology that matters.
-```
+I explore different areas of technology, experiment with new tools, and continuously improve my development skills.
+
+**My philosophy:** Don't just use technology. Understand it. Create it. Improve it.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ MY TECHNOLOGY UNIVERSE
+# ◈ 02 — SYSTEM ATTRIBUTES
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark"/>
-</p>
+<img src="https://img.shields.io/badge/01_PROGRAMMING-C%2B%2B%20%7C%20JAVA%20%7C%20PYTHON-9D4EDD?style=for-the-badge"/>
+<br/><br/>
 
-### 🌐 Frameworks & Development
+<img src="https://img.shields.io/badge/02_WEB_DEVELOPMENT-HTML%20%7C%20CSS%20%7C%20JAVASCRIPT-7B2CBF?style=for-the-badge"/>
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=dark"/>
-</p>
+<img src="https://img.shields.io/badge/03_FRAMEWORKS-REACT%20%7C%20NODE%20%7C%20EXPRESS-C77DFF?style=for-the-badge"/>
+<br/><br/>
 
-### 🗄️ Database & Backend
+<img src="https://img.shields.io/badge/04_DATABASE-MYSQL%20%7C%20MONGODB%20%7C%20FIREBASE-9D4EDD?style=for-the-badge"/>
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
-</p>
+<img src="https://img.shields.io/badge/05_TOOLS-GIT%20%7C%20GITHUB%20%7C%20FIGMA-7B2CBF?style=for-the-badge"/>
 
-### ⚙️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark"/>
-</p>
+</div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+# ◈ 03 — TECHNOLOGY INVENTORY
 
+<details>
+<summary><b>⚔️ Programming Weapons</b></summary>
+<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-ENGINEERING_THE_FUTURE-A855F7?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js&theme=dark"/>
 </p>
+</details>
 
-| 💎 Project | 📝 Description | ⚡ Technologies |
-|:---|:---|:---|
-| 🎓 Student Management System | Student records, grades, attendance and GPA | C++ |
-| 💰 Finance Management Website | Interactive financial dashboard and transactions | HTML, CSS, JS |
-| 🛒 E-Commerce Website | Modern online shopping experience | HTML, CSS, JS |
-| 🌐 Personal Portfolio | Responsive developer portfolio | HTML, CSS, JS |
+<details>
+<summary><b>🌐 Web Development Arsenal</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap&theme=dark"/>
+</p>
+</details>
+
+<details>
+<summary><b>🗄️ Database Systems</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ Developer Equipment</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark"/>
+</p>
+</details>
 
 ---
 
-## 📊 GITHUB PERFORMANCE
+# ◈ 04 — CLASSIFIED MISSIONS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=090014&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=090014&title_color=C084FC&text_color=E9D5FF"/>
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/RESTRICTED-ACCESS-6A00F4?style=for-the-badge&logo=hackthebox"/>
 
-## 🔥 CONTRIBUTION STREAK
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=090014&ring=A855F7&fire=C084FC&currStreakLabel=D8B4FE"/>
-</p>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-</p>
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-A855F7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CYBERSECURITY-9333EA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CLOUD_COMPUTING-6B21A8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DEVOPS-C084FC?style=flat-square"/>
-</p>
-
----
-
-## 💡 MY CORE STRENGTHS
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center">🧩<br/><b>Problem Solving</b></td>
-<td align="center">🧠<br/><b>Critical Thinking</b></td>
-<td align="center">🤝<br/><b>Teamwork</b></td>
+<td width="50%" valign="top">
+
+### 🎓 MISSION 01
+**Student Management System**
+
+A system for managing student records, attendance, grades, and academic information.
+
+`C++` `OOP`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 MISSION 02
+**Finance Management Website**
+
+A financial dashboard with income, expenses, transaction management, and interactive features.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
 </tr>
 <tr>
-<td align="center">⚡<br/><b>Fast Learning</b></td>
-<td align="center">🎨<br/><b>Creativity</b></td>
-<td align="center">🚀<br/><b>Innovation</b></td>
+<td width="50%" valign="top">
+
+### 🛒 MISSION 03
+**E-Commerce Platform**
+
+An online shopping experience with product browsing, shopping cart, and purchase interface.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 MISSION 04
+**Personal Developer Portfolio**
+
+A personal digital identity showcasing projects, skills, and developer achievements.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🌍 CONNECT WITH ME
+# ◈ 05 — DEVELOPMENT DATABASE
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D001A&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF&ring_color=9D4EDD"/>
 
-## 👁️ PROFILE VISITORS
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=0D001A&title_color=C77DFF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D001A&ring=C77DFF&fire=9D4EDD&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=AAAAAA"/>
+
+</div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+# ◈ 06 — NEXT EVOLUTION
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+| SKILL PATH | OBJECTIVE |
+|:---|:---|
+| ⚡ Full-Stack Development | Build complete web systems |
+| 🧠 Artificial Intelligence | Explore AI and machine learning |
+| 🛡️ Cybersecurity | Understand digital security |
+| ☁️ Cloud Computing | Learn cloud infrastructure |
+| 🚀 Software Engineering | Design reliable applications |
+
+</div>
 
 ---
 
-<h2 align="center">
-  💜 THINK DIFFERENT. CODE DIFFERENT. BUILD THE FUTURE.
-</h2>
+# ◈ 07 — ESTABLISH CONNECTION
 
-<p align="center">
-  <i>"Great developers don't just write code. They create possibilities."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6B21A8,100:A855F7&height=150&section=footer"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=C77DFF&center=true&width=600&lines=LET'S+BUILD+SOMETHING+EXTRAORDINARY;COLLABORATION+PROTOCOL+READY."/>
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-ENTER_MY_WORLD-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6A00F4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=EXPLORERS+VISITED&color=9D4EDD&style=for-the-badge"/>
+
+<br/><br/>
+
+### 「 THE FUTURE IS WRITTEN IN CODE 」
+
+**THINK. CREATE. INNOVATE.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4B0082,100:05000F&height=140&section=footer"/>
+
+</div>
